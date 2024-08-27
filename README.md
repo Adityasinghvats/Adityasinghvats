@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me [Twitter](https://x.com/Aditya11975137?t=t7-JItAySGYYjywiB_rlQQ&s=09) [LinkedIn](http://www.linkedin.com/in/aditya-kumar-6882b2308)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote my first code in January , 2024.
+- ⚡ Fun fact: I wrote my first line of code in January , 2024.
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasinghvats&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
