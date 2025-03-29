@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aditya Singh Vats.<br>👀 I’m interested in Android development and Backend Development.<br>🌱 I’m currently learning Full-Stack Development.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me Twitter LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I wrote my first line of code in January , 2024.
+👋 Hi, I’m Aditya Singh Vats.<br>👀 I’m interested in Full-Stack and Backend Development.<br>🌱 I’m currently learning Full-Stack Development.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me Twitter LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I wrote my first line of code in January , 2024.
 
 
 ## 🌐 Socials:
