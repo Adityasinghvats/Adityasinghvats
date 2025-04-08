@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aditya Singh Vats.<br>👀 I’m interested in Full-Stack and Backend Development.<br>🌱 I’m currently learning Full-Stack Development.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me [Twitter]((https://x.com/https://x.com/Aditya11975137?t=t7-JItAySGYYjywiB_rlQQ&s=09) [LinkedIn](https://linkedin.com/in/http://www.linkedin.com/in/aditya-kumar-6882b2308)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I wrote my first line of code in January , 2024.
+👋 Hi, I’m Aditya Singh Vats.<br>👀 I’m interested in Full-Stack and Backend Development.<br>🌱 I’m currently learning Full-Stack Development.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me [Twitter](https://x.com/https://x.com/Aditya11975137?t=t7-JItAySGYYjywiB_rlQQ&s=09) [LinkedIn](https://linkedin.com/in/http://www.linkedin.com/in/aditya-kumar-6882b2308)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I wrote my first line of code in January , 2024.
 
 
 ## 🌐 Socials:
